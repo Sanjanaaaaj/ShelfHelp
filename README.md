@@ -1,4 +1,7 @@
 This application is made using python, flask and html. 
+Originally hosted on vercel platform
+shelfhelp-sanjanaaaajs-projects.vercel.app
+
 It gives you a catalogue of books which are organized based on genre 
 It also allows you to get recommendations by genres .
 Data is scraped from Google reads (Sanjana J's account) 
