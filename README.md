@@ -50,11 +50,18 @@ Clone the Repository
   ```bash
      git clone https://github.com/Sanjanaaaaj/ShelfHelp.git
   ```
-Install dependencies and run the application 
+Install dependencies:
+```python
+pip install -r requirements.txt
+```
+and run the application using:
 ``` python
     python app.py
 ```
-Open your web browser and navigate to http://127.0.0.1:5000/
+Open your web browser and navigate to 
+```html
+http://127.0.0.1:5000/
+```
 
 
 
